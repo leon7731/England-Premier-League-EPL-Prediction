@@ -1,5 +1,5 @@
 
-<img align="top" width="80%" align="right" alt="Logo" src="https://www.pngegg.com/en/png-bbica"/>
+![pngegg](https://github.com/user-attachments/assets/f09f089d-75d9-4a30-8d79-cb5ad21eb751)
 
 # Introduction
 In the realm of sports analytics, predicting the outcome of a match—whether a home win, away win, or draw—has become a crucial application of machine learning models. 
